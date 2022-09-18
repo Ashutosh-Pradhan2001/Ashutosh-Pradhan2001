@@ -30,7 +30,7 @@
 
 
 
-<img align="right" alt="Coding" height="120" width="350" src="https://c.tenor.com/HqNH0AhI4_wAAAAC/coding-man.gif">
+<img align="right" alt="Coding" height="160" width="350" src="https://c.tenor.com/HqNH0AhI4_wAAAAC/coding-man.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
