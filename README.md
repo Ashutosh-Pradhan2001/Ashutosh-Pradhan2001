@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm ASHUTOSH PRADHAN</h1>
 <h3 align="center">A passionate MERN Developer from India</h3>
 <img align="right" alt="Coding" height="200" width="300" src="https://c.tenor.com/BqbIhT4Mb7cAAAAM/programmer-rounded-edges.gif">
-<img align="right" alt="Coding" height="350" width="300" src="https://www.gifcen.com/wp-content/uploads/2021/08/basketball-gif-6.gif"> 
 
 
 
